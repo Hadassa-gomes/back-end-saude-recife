@@ -1,0 +1,553 @@
+[
+  {
+    "tipo": "ubs",
+    "bairro": "BAIRRO DO RECIFE",
+    "nome": "US 123 CS Prof César Montezuma",
+    "endereco": "AV CAIS DO APOLO, 925 -  BAIRRO DO RECIFE",
+    "telefone": "3355-4420"
+  },
+  {
+    "tipo": "ubs",
+    "bairro": "BEBERIBE",
+    "nome": "US 155 CS Prof Monteiro de Morais",
+    "endereco": "AV BEBERIBE, 4510 - BEBERIBE",
+    "telefone": "3355-6848"
+  },
+  {
+    "tipo": "ubs",
+    "bairro": "CASA AMARELA",
+    "nome": "US 103 CS Prof Mário Ramos",
+    "endereco": "RUA OSCAR DE BARROS, S/Nº - CASA AMARELA",
+    "telefone": "3355-4434"
+  },
+  {
+    "tipo": "ubs",
+    "bairro": "CASA AMARELA",
+    "nome": "US 109 CS Francisco Pignatari",
+    "endereco": "ESTRADA DO ARRAIAL, S/N1 - CASA AMARELA",
+    "telefone": "3355-4400"
+  },
+  {
+    "tipo": "ubs",
+    "bairro": "NOVA DESCOBERTA",
+    "nome": "US 120 CS Mário Monteiro Melo",
+    "endereco": "RUA NOVA DESCOBERTA, 99  - NOVA DESCOBERTA",
+    "telefone": "3355-4385"
+  },
+  {
+    "tipo": "ubs",
+    "bairro": "NOVA DESCOBERTA",
+    "nome": "US 121 CS Prof Bruno Maia",
+    "endereco": "ALTO DO REFUGIO, S/N - NOVA DESCOBERTA",
+    "telefone": "3355-4416"
+  },
+  {
+    "tipo": "ubs",
+    "bairro": "VASCO DA GAMA",
+    "nome": "US 152 CS Iná Rosa Borges",
+    "endereco": "RUA SENADOR MILTON CAMPOS, S/N  - VASCO DA GAMA",
+    "telefone": "3355-4408"
+  },
+  {
+    "tipo": "ubs",
+    "bairro": "ALTO DO MANDU",
+    "nome": "US 171 CS Joaquim Costa Carvalho",
+    "endereco": "RUA SIRIGI, S/N - ALTO DO MANDU",
+    "telefone": "3355-4412"
+  },
+  {
+    "tipo": "ubs",
+    "bairro": "TORROES",
+    "nome": "US 106 CS Prof Joaquim Cavalcante",
+    "endereco": "AV DO FORTE, 1350 - TORROES",
+    "telefone": "3355-4425"
+  },
+  {
+    "tipo": "ubs",
+    "bairro": "IPUTINGA",
+    "nome": "US 112 CS Dr José Dustan Carvalho Soares",
+    "endereco": "RUA MAURICIO DE NASSAU S/N CAIARA  - IPUTINGA",
+    "telefone": "33554388"
+  },
+  {
+    "tipo": "caps",
+    "bairro": "BOA VISTA",
+    "nome": "US 348 CAPS BOA VISTA",
+    "endereco": "R. General José Semeão, 146 - BOA VISTA",
+    "telefone": ""
+  },
+  {
+    "tipo": "caps",
+    "bairro": "SANTO AMARO",
+    "nome": "US 306 CAPS AD PROF LUIZ CERQUEIRA",
+    "endereco": "R Álvares de Azevedo, 80 – SANTO AMARO",
+    "telefone": ""
+  },
+  {
+    "tipo": "caps",
+    "bairro": "ENCRUZILHADA",
+    "nome": "US 308 CAPS PROF ZALDO ROCHA",
+    "endereco": "R Castro Alves, 143 - ENCRUZILHADA",
+    "telefone": ""
+  },
+  {
+    "tipo": "caps",
+    "bairro": "TORREÃO",
+    "nome": "US 263 CAPS JOSE CARLOS SOUTO",
+    "endereco": "R Djalma Farias, 135 - TORREÃO",
+    "telefone": ""
+  },
+  {
+    "tipo": "caps",
+    "bairro": "ROSARINHO",
+    "nome": "US 335 CAPS AD ESTACAO VICENTE ARAUJO",
+    "endereco": "R. Couto Magalhães, 480 - ROSARINHO",
+    "telefone": ""
+  },
+  {
+    "tipo": "caps",
+    "bairro": "TAMARINEIRA",
+    "nome": "US 318 CAPS CPTRA CENTRO DE PREV TRAT E REAB DE ALCOOLISMO",
+    "endereco": "Av. Rosa e Silva, 2130 - TAMARINEIRA",
+    "telefone": ""
+  },
+  {
+    "tipo": "caps",
+    "bairro": "CASA AMARELA",
+    "nome": "US 319 CAPS ESPACO AZUL",
+    "endereco": "Av. Norte, 5035 - CASA AMARELA",
+    "telefone": ""
+  },
+  {
+    "tipo": "caps",
+    "bairro": "TAMARINEIRA",
+    "nome": "US 277 CAPS ESPERANCA",
+    "endereco": "R. José Carvalheira, 415 - TAMARINEIRA",
+    "telefone": ""
+  },
+  {
+    "tipo": "caps",
+    "bairro": "CORDEIRO",
+    "nome": "US 253 CAPS ESPACO VIDA",
+    "endereco": "Av. Estrada do Forte Arraial do Bom Jesus, 620 - CORDEIRO",
+    "telefone": ""
+  },
+  {
+    "tipo": "caps",
+    "bairro": "CORDEIRO",
+    "nome": "US 320 CAPS CENTRO EULAMPIO CORDEIRO DE RECUPERACAO HUMANA",
+    "endereco": "R. Rondônia, 100 - CORDEIRO",
+    "telefone": ""
+  },
+  {
+    "tipo": "caps",
+    "bairro": "JARDIM SÃO PAULO",
+    "nome": "US 170 CAPS DR GALDINO LORETO",
+    "endereco": "Rua Frei Atanásia, 364 - JARDIM SÃO PAULO",
+    "telefone": ""
+  },
+  {
+    "tipo": "caps",
+    "bairro": "AFOGADOS",
+    "nome": "US 303 CAPS AD ESPACO TRAVESSIA RENE RIBEIRO",
+    "endereco": "R. Jacira, 210 - AFOGADOS",
+    "telefone": ""
+  },
+  {
+    "tipo": "caps",
+    "bairro": "JARDIM SÃO PAULO",
+    "nome": "US 343 CAPS CEMPI CENTRO MEDICO PSICO PEDAGOGICO INFANTIL",
+    "endereco": "Av. São Paulo, 677 - JARDIM SÃO PAULO",
+    "telefone": ""
+  },
+  {
+    "tipo": "caps",
+    "bairro": "BONGI",
+    "nome": "US 340 CAPS CLEA LACET",
+    "endereco": "Rua Joaquim da Silva Caldas, nº 100 - BONGI",
+    "telefone": ""
+  },
+  {
+    "tipo": "caps",
+    "bairro": "SETÚBAL",
+    "nome": "US 330 CAPS ESPACO LIVREMENTE",
+    "endereco": "R. Valdemar Nery Carneiro Monteiro, 531 - SETÚBAL",
+    "telefone": ""
+  },
+  {
+    "tipo": "caps",
+    "bairro": "IPSEP",
+    "nome": "US 310 CAPS AD PROF JOSE LUCENA",
+    "endereco": "R. Santos Cosme e Damião, 186 - IPSEP",
+    "telefone": ""
+  },
+  {
+    "tipo": "caps",
+    "bairro": "IPSEP",
+    "nome": "US 304 CAPS DAVID CAPISTRANO",
+    "endereco": "Rua Virginia Heráclito, s/n - IPSEP",
+    "telefone": ""
+  },
+  {
+    "tipo": "caps",
+    "bairro": "FATIMA",
+    "nome": "US 407 CENTRO DE CONVIVENCIA FATIMA CAIO",
+    "endereco": "Rua Professor Josué de Castro, 156, Casa 07 - FATIMA",
+    "telefone": ""
+  },
+  {
+    "tipo": "policlinica",
+    "bairro": "SANTO ANTÔNIO",
+    "nome": "Policlínica Centro",
+    "endereco": "R. 1º de Março, 90 - SANTO ANTÔNIO, Recife - PE, 50010-070",
+    "telefone": ""
+  },
+  {
+    "tipo": "policlinica",
+    "bairro": "MADALENA",
+    "nome": "Policlínica Lessa de Andrade",
+    "endereco": "Estr. dos Remédios, 2416 - MADALENA, Recife - PE, 50770-120",
+    "telefone": "(81) 3355-7805"
+  },
+  {
+    "tipo": "policlinica",
+    "bairro": "PINA",
+    "nome": "Policlínica Do Pina",
+    "endereco": "Av. República do Líbano, 355 - PINA, Recife - PE, 51110-160",
+    "telefone": "(81) 3355-1350"
+  },
+  {
+    "tipo": "policlinica",
+    "bairro": "TAMARINEIRA",
+    "nome": "Policlínica Albert Sabin",
+    "endereco": "R. Padre Roma, 191 - TAMARINEIRA, Recife - PE, 52050-150",
+    "telefone": "(81) 3355-2750"
+  },
+  {
+    "tipo": "policlinica",
+    "bairro": "AFOGADOS",
+    "nome": "Policlínica Agamenon Magalhães",
+    "endereco": "Av. Sul Gov. Cid Sampaio, S/N - AFOGADOS, Recife - PE, 50770-011",
+    "telefone": "(81) 3355-2339"
+  },
+  {
+    "tipo": "policlinica",
+    "bairro": "SANTO AMARO",
+    "nome": "Policlínica Waldemar de Oliveira",
+    "endereco": "R. do Pombal, 115 - SANTO AMARO, Recife - PE, 50100-170",
+    "telefone": "(81) 3355-1449"
+  },
+  {
+    "tipo": "policlinica",
+    "bairro": "CASA AMARELA",
+    "nome": "Policlínica e Maternidade Professor Barros Lima",
+    "endereco": "Av. Norte Miguel Arraes de Alencar, 6465 - CASA AMARELA, Recife - PE, 52081-000",
+    "telefone": "(81) 3355-2160"
+  },
+  {
+    "tipo": "policlinica",
+    "bairro": "CAMPINA DO BARRETO",
+    "nome": "Policlínica Amaury Coutinho",
+    "endereco": "R. Iguatu, s/n - CAMPINA DO BARRETO, Recife - PE, 52121-030",
+    "telefone": "(81) 3355-7868"
+  },
+  {
+    "tipo": "policlinica",
+    "bairro": "AFOGADOS",
+    "nome": "Policlínica São Francisco",
+    "endereco": "R. São Miguel, 1165 - AFOGADOS, Recife - PE, 50850-000",
+    "telefone": "(81) 3034-4801"
+  },
+  {
+    "tipo": "policlinica",
+    "bairro": "VASCO DA GAMA",
+    "nome": "Policlínica Clementino Fraga",
+    "endereco": "R. Japaratuba, 260 - VASCO DA GAMA, Recife - PE, 52280-510",
+    "telefone": "(81) 3355-6049"
+  },
+  {
+    "tipo": "policlinica",
+    "bairro": "PAISSANDU",
+    "nome": "Policlínica Santa Clara",
+    "endereco": "R. Pacífico dos Santos, 85 - PAISSANDU, Recife - PE, 52010-030",
+    "telefone": "(81) 3416-8888"
+  },
+  {
+    "tipo": "policlinica",
+    "bairro": "IPUTINGA",
+    "nome": "Policlínica da Iputinga",
+    "endereco": "R. Gen. Cândido Borges Castelo Branco, 182 - IPUTINGA, Recife - PE, 50670-170",
+    "telefone": "(81) 99163-8172"
+  },
+  {
+    "nome": "UBT José Dustan",
+    "bairro": "Iputinga",
+    "endereco": "Rua Santa Lúcia, 320 - Iputinga, Recife - PE",
+    "telefone": null,
+    "tipo": "Centro de Testagem"
+  },
+  {
+    "nome": "Parque Dona Lindu",
+    "bairro": "Boa Viagem",
+    "endereco": "Avenida Boa Viagem, s/n - Boa Viagem, Recife - PE",
+    "telefone": null,
+    "tipo": "Centro de Testagem"
+  },
+  {
+    "nome": "Centro de Saúde Professor Mário Ramos",
+    "bairro": "Casa Amarela",
+    "endereco": "Rua Oscar de Barros, 175 - Casa Amarela, Recife - PE",
+    "telefone": null,
+    "tipo": "Centro de Testagem"
+  },
+  {
+    "nome": "Antigo Sesi da Mustardinha",
+    "bairro": "Bongi",
+    "endereco": "Rua Major Mário Portela, 297 - Bongi, Recife - PE",
+    "telefone": null,
+    "tipo": "Centro de Testagem"
+  },
+  {
+    "nome": "Policlínica Waldemar de Oliveira",
+    "bairro": "Santo Amaro",
+    "endereco": "Rua do Pombal, 115 - Santo Amaro, Recife - PE",
+    "telefone": "(81) 3355-1449",
+    "tipo": "Centro de Testagem"
+  },
+  {
+    "nome": "Centro de Saúde Professor Monteiro de Morais",
+    "bairro": "Beberibe",
+    "endereco": "Avenida Beberibe, 4510 - Beberibe, Recife - PE",
+    "telefone": "(81) 3355-6848",
+    "tipo": "Centro de Testagem"
+  },
+  {
+    "nome": "Policlínica Clementino Fraga",
+    "bairro": "Vasco da Gama",
+    "endereco": "Rua Japaratuba, 260 - Vasco da Gama, Recife - PE",
+    "telefone": "(81) 3355-6049",
+    "tipo": "Centro de Testagem"
+  },
+  {
+    "nome": "Centro de Saúde Sebastião Ivo Rabelo",
+    "bairro": "Cohab",
+    "endereco": "Avenida Campina Grande, UR 1 - Cohab, Recife - PE",
+    "telefone": null,
+    "tipo": "Centro de Testagem"
+  },
+  {
+    "nome": "Upinha Dr. Moacyr André Gomes",
+    "bairro": "Morro da Conceição",
+    "endereco": "Rua Pedro Allain, s/n - Morro da Conceição, Recife - PE",
+    "telefone": null,
+    "tipo": "Centro de Testagem"
+  },
+  {
+    "nome": "Upinha Governador Eduardo Campos",
+    "bairro": "Bomba do Hemetério",
+    "endereco": "Rua São Miguel, s/n - Bomba do Hemetério, Recife - PE",
+    "telefone": null,
+    "tipo": "Centro de Testagem"
+  },
+  {
+    "nome": "Upinha Vila Arraes",
+    "bairro": "Várzea",
+    "endereco": "Rua José Bonifácio, s/n - Várzea, Recife - PE",
+    "telefone": null,
+    "tipo": "Centro de Testagem"
+  },
+  {
+    "nome": "Policlínica Arnaldo Marques",
+    "bairro": "Ibura",
+    "endereco": "Avenida Dois Rios, s/n - Ibura, Recife - PE",
+    "telefone": null,
+    "tipo": "Centro de Testagem"
+  },
+  {
+    "nome": "Centro de Saúde Professor Romero Marques",
+    "bairro": "Prado",
+    "endereco": "Rua do Prado, s/n - Prado, Recife - PE",
+    "telefone": null,
+    "tipo": "Centro de Testagem"
+  },
+  {
+    "nome": "Centro Social Urbano (CSU) Afrânio Godoy",
+    "bairro": "Imbiribeira",
+    "endereco": "Rua Professor José dos Anjos, s/n - Imbiribeira, Recife - PE",
+    "telefone": null,
+    "tipo": "Centro de Testagem"
+  },
+  {
+    "nome": "Sesc Santo Amaro",
+    "bairro": "Santo Amaro",
+    "endereco": "Rua Treze de Maio, 455 - Santo Amaro, Recife - PE",
+    "telefone": null,
+    "tipo": "Centro de Testagem"
+  },
+  {
+    "nome": "Sesc Casa Amarela",
+    "bairro": "Casa Amarela",
+    "endereco": "Avenida Norte Miguel Arraes de Alencar, 4491 - Casa Amarela, Recife - PE",
+    "telefone": null,
+    "tipo": "Centro de Testagem"
+  },
+
+
+  {
+    "tipo": "hospital",
+    "nome": "Hospital da Mulher do Recife Dra. Mercês Pontes Cunha",
+    "bairro": "Curado",
+    "endereco": "Endereço não informado",
+    "telefone": "Não informado"
+  },
+  {
+    "tipo": "hospital",
+    "nome": "Hospital Eduardo Campos da Pessoa Idosa",
+    "bairro": "Areias",
+    "endereco": "Endereço não informado",
+    "telefone": "Não informado"
+  },
+  {
+    "tipo": "hospital",
+    "nome": "Hospital Agamenon Magalhães",
+    "bairro": "Casa Amarela",
+    "endereco": "Estrada do Arraial, 2723 - Casa Amarela, Recife - PE, 52051-380",
+    "telefone": "(81) 3184-1600"
+  },
+  {
+    "tipo": "hospital",
+    "nome": "Hospital da Restauração",
+    "bairro": "Derby",
+    "endereco": "Avenida Governador Agamenon Magalhães, s/n - Derby, Recife - PE, 52010-040",
+    "telefone": "(81) 3181-5400"
+  },
+  {
+    "tipo": "hospital",
+    "nome": "Hospital Getúlio Vargas",
+    "bairro": "Cordeiro",
+    "endereco": "Avenida General San Martin, s/n - Cordeiro, Recife - PE, 50630-060",
+    "telefone": "(81) 3184-5724"
+  },
+  {
+    "tipo": "hospital",
+    "nome": "Hospital Otávio de Freitas",
+    "bairro": "Tejipió",
+    "endereco": "Rua Aprígio Guimarães, s/n - Tejipió, Recife - PE, 50920-640",
+    "telefone": "(81) 3182-8631"
+  },
+  {
+    "tipo": "hospital",
+    "nome": "Hospital Barão de Lucena",
+    "bairro": "Iputinga",
+    "endereco": "Avenida Caxangá, 3860 - Iputinga, Recife - PE, 50731-000",
+    "telefone": "(81) 3184-6400"
+  },
+  {
+    "tipo": "hospital",
+    "nome": "Hospital das Clínicas",
+    "bairro": "Cidade Universitária",
+    "endereco": "Avenida Professor Moraes Rego, 1235 - Cidade Universitária, Recife - PE, 50670-901",
+    "telefone": "(81) 2126-3633"
+  },
+  {
+    "tipo": "hospital",
+    "nome": "Hospital Oswaldo Cruz",
+    "bairro": "Santo Amaro",
+    "endereco": "Rua Arnóbio Marques, 310 - Santo Amaro, Recife - PE",
+    "telefone": "(81) 3184-1200"
+  },
+  {
+    "tipo": "hospital",
+    "nome": "PROCAPE (Pronto Socorro Cardiológico de Pernambuco)",
+    "bairro": "Santo Amaro",
+    "endereco": "Rua dos Palmares, s/n - Santo Amaro, Recife - PE",
+    "telefone": "(81) 3181-7100"
+  },
+  {
+    "tipo": "hospital",
+    "nome": "CISAM (Centro Integrado Amaury de Medeiros)",
+    "bairro": "Encruzilhada",
+    "endereco": "Rua Visconde de Mamanguape, s/n - Encruzilhada, Recife - PE",
+    "telefone": "(81) 3427-3911"
+  },
+
+
+
+  {
+    "tipo": "usf",
+    "nome": "US 121 USF Professor Bruno Maia",
+    "bairro": "Nova Descoberta",
+    "endereco": "Alto do Refúgio, s/n - Nova Descoberta",
+    "telefone": "3355-4416"
+  },
+  {
+    "tipo": "usf",
+    "nome": "US 137 USF Borborema / Dr. Djair Brindeiro",
+    "bairro": "Boa Viagem",
+    "endereco": "Rua Cosmorama, s/n - Boa Viagem",
+    "telefone": "3355-0119"
+  },
+  {
+    "tipo": "usf",
+    "nome": "US 138 USF Dr. Luiz Wilson",
+    "bairro": "Bomba do Hemetério",
+    "endereco": "Rua Chá de Alegria, s/n - Bomba do Hemetério",
+    "telefone": "3355-3165"
+  },
+  {
+    "tipo": "usf",
+    "nome": "US 173 USF Dancing Days",
+    "bairro": "Imbiribeira",
+    "endereco": "Rua Dancing Days, 109 - Imbiribeira",
+    "telefone": "3355-6119"
+  },
+  {
+    "tipo": "usf",
+    "nome": "US 174 USF Sítio Grande",
+    "bairro": "Imbiribeira",
+    "endereco": "Av. Luxemburgo, 254 - Sítio Grande - Imbiribeira",
+    "telefone": "3355-6685"
+  },
+  {
+    "tipo": "usf",
+    "nome": "US 175 USF Alto da Brasileira / Diógenes Cavalcanti / Reservatório",
+    "bairro": "Nova Descoberta",
+    "endereco": "Rua Alto da Brasileira, 1002 - Reservatório - Nova Descoberta",
+    "telefone": "3355-6402"
+  },
+  {
+    "tipo": "usf",
+    "nome": "US 249 USF Santana",
+    "bairro": "Santana",
+    "endereco": "Rua Olegarinha da Cunha, 333 - Santana",
+    "telefone": "3355-6222"
+  },
+  {
+    "tipo": "usf",
+    "nome": "US 250 USF UR 12 / UR 5 3ª Etapa",
+    "bairro": "Cohab",
+    "endereco": "Rua Francisco Miranda, 16 - Cohab",
+    "telefone": "3355-6690"
+  },
+  {
+    "tipo": "usf",
+    "nome": "US 251 USF da Guabiraba",
+    "bairro": "Guabiraba",
+    "endereco": "Av. Otacílio de Azevedo, 115 - Guabiraba",
+    "telefone": "3355-6522"
+  },
+  {
+    "tipo": "usf",
+    "nome": "US 265 USF Mangueira I",
+    "bairro": "San Martin",
+    "endereco": "Rua Jupiacara, 70 - San Martin",
+    "telefone": "3355-6186"
+  }
+
+
+
+]
+
+
+
+  
